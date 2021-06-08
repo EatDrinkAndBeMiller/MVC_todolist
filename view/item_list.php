@@ -107,7 +107,7 @@
                     <h5> </h5><br>
                     <form action="." method="POST" id="editting_categories">
                         <input type="hidden" name="action" value="edit_categories">
-                        <button class="btn btn-info">Edit Categories</a></button>
+                        <button class="btn btn-info">Edit Categories</button>
                     </form>
                 </div>
                 <div class="col-4"></div>
