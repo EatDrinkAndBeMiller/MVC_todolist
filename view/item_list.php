@@ -68,7 +68,6 @@
                     <form action="." method="POST">
                         <input type="hidden" name="action" value="delete_item">
                         <input type="hidden" name="itemNum" value="<?=$itemNum;?>">
-                        <?=$itemNum?>
                         <button class="btn btn-danger">Done!</button>
                     </form>
                 </div><hr>
